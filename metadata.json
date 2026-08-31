@@ -1,0 +1,6 @@
+{
+  "name": "WOODCRAFT - Premium Wooden Doors & Windows",
+  "description": "Modern premium e-commerce platform for handcrafted wooden doors, architectural windows, and custom timber joinery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
